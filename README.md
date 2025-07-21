@@ -30,4 +30,4 @@ Eye Tracking Test
 ![Pasek konta](makiety/pasek_konta.png)
 
 6. Pasek artykułów
-![Pasek artykułów](pasek_artykulow.png)
+![Pasek artykułów](makiety/pasek_artykulow.png)
