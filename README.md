@@ -3,8 +3,8 @@ na Zachodniopomorskim Uniwersytecie Technologicznym w roku akademickim 2024/2025
 
 ## Autorzy
 - Martyna Kowieska
-- Stanisław Błaszczyk
 - Marek Lewandowski
+- Stanisław Błaszczyk
 
 ## Link do makiet wykonanych w Figmie
 https://www.figma.com/files/team/1481273283414146822/project/350601661?fuid=1481273281657506644
