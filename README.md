@@ -1,5 +1,4 @@
 # Projekt w ramach zajęć z przedmiotu Projektowanie zorientowane na użytkownika (UCD)
-Zachodniopomorski Uniwersytet Technologiczny w roku akademickim 2024/2025
 
 ## Autorzy
 - Martyna Kowieska
